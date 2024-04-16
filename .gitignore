@@ -1,1 +1,4 @@
 .env
+csvs/
+embedded_reviews.csv
+reviews.csvs
